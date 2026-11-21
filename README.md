@@ -1,4 +1,5 @@
 # DevOps-AppGestionDesProjets
+Test webhook Jenkins
 
 Ce dépôt contient un projet **Spring Boot** (backend) et **Angular** (frontend) utilisé dans le cadre du module **DevOps**.  
 Il sert de support pratique pour mettre en œuvre un pipeline Jenkins basé sur l'intégration continue (CI) et la livraison continue (CD).
